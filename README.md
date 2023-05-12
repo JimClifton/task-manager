@@ -1,3 +1,3 @@
-Task Manager Test
+Task Manager
 
 React, Redux
